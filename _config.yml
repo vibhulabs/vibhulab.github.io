@@ -1,0 +1,26 @@
+# Site settings
+title: Vibhu Labs
+email: founders@vibhulabs.com
+url: https://vibhulabs.com
+description: "Next generation Internet of Things. Smart, Sensible, Sustainable."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Vibhulabs Private Ltd.
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/vibhulabs
+  - title: facebook
+    url: https://www.facebook.com/VibhuLabs
+  - title: github
+    url: https://github.com/VibhuLabs
+
+# Build settings
+markdown: kramdown
+permalink: pretty
